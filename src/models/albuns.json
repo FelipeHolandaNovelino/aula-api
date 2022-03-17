@@ -1,0 +1,163 @@
+
+[
+
+
+    {
+    
+    "id": 1,
+    
+    "title": "Ultraviolence",
+    
+    "duration": "51:24",
+    
+    "launchYear": "2014",
+    
+    "recorder" : " Interscope",
+    
+    "Genre": "indie",
+    
+    "artists": "Lana Del Rey"
+    
+    },
+    
+    {
+    
+    "id": 2,
+    
+    "title": "KiCk i",
+    
+    "duration": "38:07",
+    
+    "launchYear": "2020",
+    
+    "recorder": "XL",
+
+    "Genre": "Avant-pop",
+    
+    "artists": "Arca"
+    
+    },
+    
+    {
+    
+     "id": 3,
+    
+    "title": "The Golden Echo",
+    
+    "duration": "60:03",
+    
+    "launchYear": "2014",
+    
+    "recorder": "Warner Bros.",
+
+    "Genre": "Artpop",
+    
+    "artists": "Kimbra"
+    
+    },
+    
+    {
+    
+    "id": 4,
+    
+    "title": "Blue",
+    
+    "duration": "51:32",
+    
+    "launchYear": "2014",
+    
+    "recorder": "To whom it may concern",
+
+    "Genre": "Synphpop",
+    
+    "artists": "iamamiwhoami"
+    
+    },
+    
+    {
+    "id": 5,
+    
+    "title": "Hatful of Hollow",
+    
+    "duration": "56:11",
+    
+    "launchYear": "1984",
+    
+    "recorder": "Rough Trade",
+
+    "Genre": "Indie Rock",
+    
+    "artists": "The Smiths"
+    
+    },
+    
+    {
+    "id": 6,
+    
+    "title": "Super Sunset",
+    
+    "duration": "21:40",
+    
+    "launchYear": "2018",
+    
+    "recorder": "Twin Music",
+
+    "Genre": "Synthwave",
+    
+    "artists": "Allie X"
+    
+    },
+    
+    {
+    
+    "id": 7,
+    
+    "title": "Ceremonials",
+    
+    "duration": "55:58",
+    
+    "launchYear": "2011",
+    
+    "recorder": "Island",
+
+    "Genre": "Art Rock",
+    
+    "artists": "Florence + The Machine"
+    
+    },
+    
+    {
+    
+   "id": 8,
+    
+    "title": "Biophilia",
+    
+    "duration": "49:37",
+    
+    "launchYear": "2011",
+    
+    "recorder": "Warner Records",
+
+    "Genre": "Experimental",
+    
+    "artists": "Björk"
+    
+    },
+    {
+   "id": 9,
+    
+    "title": "Born This Way",
+    
+    "duration": "61:12",
+    
+    "launchYear": "2011",
+    
+    "recorder": "Interscope",
+
+    "Genre": "electropop",
+    
+    "artists": "Lady Gaga"
+    
+    }
+    
+    ]
